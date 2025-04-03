@@ -1,8 +1,8 @@
-Fila de Espera em JavaScript
+### Fila de Espera em JavaScript
 
 Este projeto implementa um sistema de fila de espera utilizando JavaScript. O objetivo é gerenciar uma fila de forma simples, permitindo adicionar, remover e visualizar os elementos da fila.
 
-🚀 Funcionalidades
+### 🚀 Funcionalidades
 
 Adicionar um elemento à fila
 
@@ -14,7 +14,7 @@ Verificar se a fila está vazia
 
 Limitar o tamanho da fila (opcional)
 
-🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 JavaScript (ES6+)
 
